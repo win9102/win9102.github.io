@@ -8,9 +8,10 @@ url:https://win9102.github.io/
 -세계 코로나 현황 집계를 볼수 있다
 
 프레임워크 : React 사용
-라이브러리 : - axios (ajax 통신)
-            - react-chartjs-2 (차트)
-            - react-router-dom (페이징)
+라이브러리 : 
+- axios (ajax 통신)
+- react-chartjs-2 (차트)
+- react-router-dom (페이징)
 오픈 api 사이트 : https://covid19api.com/
 
 - 국내 현황 작년 1월부터 현재까지 월별 누적 확진자, 월별 격리자 확인가능
@@ -22,4 +23,5 @@ url:https://win9102.github.io/
 - ajax통신시 로딩화면 추가
 
 ● 기능 구현 확인을 위해 최소한의 데이터만 추가하였습니다.
+
 ● api 사용자가 많아 데이터 로드시 오래걸릴 수 있습니다.
